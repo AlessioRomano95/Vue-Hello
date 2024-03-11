@@ -1,0 +1,19 @@
+body{
+  background-image: url(img/matrix-code-uhd-4k-wallpaper.jpg);
+  background-size: cover;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+  color: rgb(78, 218, 125);
+  text-shadow: 2px 2px rgb(120, 192, 126);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top:300px;
+  
+}
+
+.pillole{
+  opacity: 0.7;
+}
